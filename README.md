@@ -17,3 +17,4 @@
  4. Then you need to commit and push the changes.
  5. Now go to VCS->Git->Create Pull Request.
  6. Pop Up will be generated, set Title, add description and DON'T FORGET TO SELECT BRANCH OTHER THAN MASTER.
+ 7. Do your changes
